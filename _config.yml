@@ -1,14 +1,26 @@
-layout_spectrum: 0.05945312
-typography_spectrum: 0.1028998
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.7082993
+  brandStrength: 0.8727599
   lightness: 0.7627714
-  brandStrength: 0.04474449
-  rhythmicContrast: 0.801268
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#1E1F16'
+    - '#6D4C4B'
+    - '#B3E0F9'
+    - '#F9C5A4'
+    - '#0191F2'
+  rhythmicContrast: 0.801268
+typography_spectrum: 0.6523297
+layout_spectrum: 0.6792115
 name: Spangard
