@@ -1,0 +1,14 @@
+layout_spectrum: 0.05945312
+typography_spectrum: 0.1028998
+color:
+  saturation: 0.7082993
+  lightness: 0.7627714
+  brandStrength: 0.04474449
+  rhythmicContrast: 0.801268
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Spangard
